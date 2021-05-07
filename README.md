@@ -1,6 +1,5 @@
-# Final Project for CSCI-E-12: Fundamentals of Website Development
-+ Subject: Computer Science (CSCI-12)
-+ Term: Spring 2019 – Harvard Extension School
+# CSCI-E-12: Fundamentals of Website Development Final Project
++ Harvard Extension School
 + Credit Hours: 4
 + Professor: David P. Heitmeyer, AM
 <img src="https://github.com/RGPhD/e15/blob/master/images/hes-logo.png">
