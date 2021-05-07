@@ -11,23 +11,6 @@
 + CodePen Url: <https://codepen.io/DrRobelynGarcia>
 + Paiza Url: <https://paiza.io/users/show/45209>
 
-# Practice APP
+## Google Drive
 + By: *Robelyn Garcia*
-+ Code URL: <https://github.com/RGPhD/e15/tree/master/practice>
-+ Code URL: <https://github.com/RGPhD/e15/tree/master/bookmark>
-
-# Project 1
-+ By: *Robelyn Garcia*
-+ Code URL: <https://github.com/RGPhD/e15/tree/master/p1>
-
-# Project 2
-+ By: *Robelyn Garcia*
-+ Code URL: <https://github.com/RGPhD/e15/tree/master/p2>
-
-# Project 3
-+ By: *Robelyn Garcia*
-+ Code URL: <https://github.com/RGPhD/e15/tree/master/p3>
-
-# Independent Study Graduate Project
-+ By: *Robelyn Garcia*
-+ Production URL: <https://github.com/RGPhD/e15/blob/master/independent-study>
++ Download URL: <https://drive.google.com/drive/u/0/folders/1M68NOTsVdnrLOmEIc9dYAZV_Arh9Yuwz?
