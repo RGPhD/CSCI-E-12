@@ -1,0 +1,163 @@
+/* style poses css below! */
+
+/* below are styles for the header, navigation bar, gallery and the footer.  */
+
+header {
+  text-align: center;
+}
+
+        h1 {
+          font-size: 250%;
+           border: thick solid #e60000;
+    background: #ccccff;
+            color: #e60000;
+            text-align: center;
+            padding-top: 0.75em;
+            padding-bottom: 0.75em;
+            margin-bottom: 0.25em;
+        }
+
+h2 {
+    color: #e60000;
+    }
+
+h4 {
+    color: #e60000;
+    text-align: center;
+    }
+
+
+          a:link,
+        a:visited,
+        a:active {
+            color: purple;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: blue;
+            text-decoration: underline;
+        }
+
+        ul {
+            margin: 0;
+        }
+
+nav {
+text-align: center;
+}
+
+nav.sitenav ul {
+  margin: 0;
+  padding: 0;
+    list-style: none;
+}
+
+nav.subnav {
+text-align: left;
+}
+
+nav.subnav ul {
+    
+  margin-bottom: 5px;
+  padding: 0;
+    list-style: none;
+}
+
+nav.subnav li {
+    display: inline-block;
+    width: 10em;
+    text-align: center;
+}
+
+nav.subnav a {
+    display: block;
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+nav.subnav a:link,
+nav.subnav a:visited,
+
+nav.subnav a:active {
+    color: #e60000;
+    text-decoration: none;
+    border: thin solid #e60000;
+}
+
+nav.subnav a:hover {
+    background-color: #EECCFF;
+    border: thin solid #e60000;
+}
+
+nav.subnav li.youarehere a {
+    background-color: #ccccff;
+    border: thin solid #e60000;
+}
+
+
+.gallery li {
+  float: left;
+  width: 150px;
+  height: 150px;
+  padding: 5px;
+  border: medium solid #e60000;
+  margin: 5px;
+  text-align: center;
+  font-size: large;
+  list-style: none;
+}
+
+nav.sitenav li {
+    display: inline-block;
+    width: 10em;
+    text-align: center;
+}
+
+nav.sitenav a {
+    display: block;
+    font-weight: bold;
+    padding: 0.75em;
+}
+
+nav.sitenav a:link,
+nav.sitenav a:visited,
+
+nav.sitenav a:active {
+    color: #e60000;
+    text-decoration: none;
+    border: thin solid #e60000;
+}
+
+nav.sitenav a:hover {
+    background-color: #EECCFF;
+    border: thin solid #e60000;
+}
+
+nav.sitenav li.youarehere a {
+    background-color: #ccccff;
+    border: thin solid #e60000;
+}
+
+
+
+
+#gallery p img { padding-top: 5px; }
+
+
+
+ body {
+            font-family: verdana, arial, helvetica, sans-serif;
+            margin-left: 5%;
+            margin-right: 5%;
+            background: #e6ffe6;
+        }
+
+footer {
+  clear: both;
+   color: #e60000;
+   font-weight: bold;
+    text-align: center;
+    border-top: thick solid #e60000;
+}
+
