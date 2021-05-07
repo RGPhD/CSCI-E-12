@@ -1,0 +1,28 @@
+RewriteBase /
+RewriteCond %{HTTP_HOST} !^www\.meditationyoga\.club$ [NC]
+RewriteRule ^(.*)$ https://www.meditationyoga.club/$1 [R=301,L] 
+
+
+ErrorDocument 404 /404.html
+#Expiration Headers for all linked files
+ExpiresActive On
+       #7 Days
+       #HTML
+       ExpiresByType text/html A604800
+       #CSS
+       ExpiresByType text/css  A604800
+       #JS
+       ExpiresByType application/javascript    A604800
+       #images
+       ExpiresByType images/jpeg A604800
+       ExpiresByType images/gif A604800
+       ExpiresByType images/png A604800
+
+#Output Filters for Compression
+       #HTML
+       AddOutputFilterByType DEFLATE text/html
+       #CSS
+       AddOutputFilterByType DEFLATE text/css
+       #JS
+       AddOutputFilterByType DEFLATE text/javascript
+       AddOutputFilterByType DEFLATE application/javascript

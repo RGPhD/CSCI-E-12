@@ -1,0 +1,53 @@
+/* style meditationyogaclub css below! */
+
+/* below are styles for the icons, header, slideshow, navigation bar and the footer.  */
+
+header {
+  text-align: center;
+       }
+
+        h1 {
+            font-size: 250%;
+            border: thick solid #e60000;
+            background: #ccccff;
+            color: #e60000;
+            text-align: center;
+            padding-top: 0.75em;
+            padding-bottom: 0.75em;
+            margin-bottom: 0.25em;
+        }
+
+ h2 {
+     color: #e60000;
+     text-align: center;
+}
+ h3 {
+     font-size: 500%;
+     color: #FF0000;
+}
+ h4, h5, h6 {
+     color: black;
+}
+ a:link, a:visited, a:active {
+     color: blue;
+     text-decoration: none;
+}
+ a:hover {
+     color: blue;
+     text-decoration: underline;
+}
+
+ body {
+     font-family: verdana, arial, helvetica, sans-serif;
+     background-color: #ffffff;
+     background-image: url("https://meditationyoga.club/404.png");
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+}
+
+ footer {
+     text-align: center;
+     color: #FF0000;
+     font-weight: bold;
+}
