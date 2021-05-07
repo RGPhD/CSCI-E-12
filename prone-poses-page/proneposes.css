@@ -1,0 +1,235 @@
+/* style meditationyogaclub proneposes css below! */
+
+/* below are styles for the header, navigation bars, content and the footer.  */
+
+ul li {
+  display: block;
+}
+
+.poselist {
+	width:80%;
+	margin:auto;
+  
+}
+
+.pose {
+	border: thick solid #e60000;
+	background-color: #ccccff;
+	overflow:auto;
+	padding:15px;
+  margin:15px;
+}
+
+
+.posephoto {
+  font-size: 80%;
+	font-style: italic;
+	color: green;
+}
+
+.info {
+  color: black;
+  padding-top:5px;
+}
+
+.title {
+  color: #e60000;
+  font-style: italic;
+	font-weight: bold;
+	padding-top:5px;
+}
+
+.sanskrit {color:#e60000;
+	font-variant:small-caps;
+  font-weight: bold;
+	padding-top:5px;
+}
+
+.instructions {color:#e60000;
+	font-size: 95%;
+	padding-top:15px;
+}
+
+.source {color:#e60000;
+	font-size: 95%;
+	padding-top:15px;
+}
+
+
+img {float: right;
+clear:right;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+        a:link,
+        a:visited,
+        a:active {
+            color: purple;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: blue;
+            text-decoration: underline;
+        }
+
+     
+        
+nav { 
+text-align: center;
+}
+
+nav.sitenav ul {
+  margin: 0;
+  padding: 0;
+  
+    list-style: none;
+}
+
+nav.sitenav li {
+    display: inline-block;
+    width: 10em;
+    text-align: center;
+}
+
+nav.sitenav a {
+    display: block;
+    font-weight: bold;
+    padding: 0.75em;
+}
+
+nav.sitenav a:link,
+nav.sitenav a:visited,
+nav.sitenav a:hover,
+nav.sitenav a:active {
+    color: #e60000;
+    text-decoration: none;
+    border: thin solid #e60000;
+}
+
+nav.sitenav a:hover {
+    background-color: #EECCFF;
+    border: thin solid #e60000;
+}
+
+nav.sitenav li.youarehere a {
+    background-color: #ccccff;
+    border: thin solid #e60000;
+}
+
+nav.subnav {
+text-align: left;
+}
+
+nav.subnav ul {
+    
+  margin-bottom: 5px;
+  padding: 0;
+    list-style: none;
+}
+
+nav.subnav li {
+    display: inline-block;
+    width: 10em;
+    text-align: center;
+}
+
+nav.subnav a {
+    display: block;
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+nav.subnav a:link,
+nav.subnav a:visited,
+
+nav.subnav a:active {
+    color: #e60000;
+    text-decoration: none;
+    border: thin solid #e60000;
+}
+
+nav.subnav a:hover {
+    background-color: #EECCFF;
+    border: thin solid #e60000;
+}
+
+nav.subnav li.youarehere a {
+    background-color: #ccccff;
+    border: thin solid #e60000;
+}
+
+ body {
+            font-family: verdana, arial, helvetica, sans-serif;
+            margin-left: 5%;
+            margin-right: 5%;
+            background: #e6ffe6;
+        }
+
+header {
+  text-align: center;
+}
+
+        h1 {
+            font-size: 250%;
+            border: thick solid #e60000;
+            background: #ccccff;
+            color: #e60000;
+            text-align: center;
+            padding-top: 0.75em;
+            padding-bottom: 0.75em;
+            margin-bottom: 0.25em;
+        }
+
+       h2 {
+            color: #e60000;
+            margin-bottom: 0.5em;
+        }
+
+       h3 {
+            text-align: center;
+            border: thick solid #e60000;
+            background: #ccccff;
+            color: #e60000;
+            padding-top: 0.50em;
+            padding-bottom: 0.50em;
+            margin-bottom: 0.50em;
+            width:50%;
+            margin:auto;
+        }
+        h4,
+        h5,
+        h6 {
+            color: black;
+        }
+
+
+img {
+  text-align: center;
+   margin-left: 5%;
+            margin-right: 5%;
+            border: thick solid #e60000;
+            margin-bottom: 0.25em;
+}
+
+.center {
+  display: block;
+  margin-top: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+    font-weight: bold;
+    color: #e60000;
+    text-align: center;
+    border-top: thick solid #e60000;
+    margin-top: 0.5em;
+}
