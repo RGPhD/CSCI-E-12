@@ -1,15 +1,15 @@
-# Course work for Harvard Extension CSCI-E-12: Fundamentals of Website Development
+# Final Project for CSCI-E-12: Fundamentals of Website Development
 + Subject: Computer Science (CSCI-12)
 + Term: Spring 2019 – Harvard Extension School
 + Credit Hours: 4
 + Professor: David P. Heitmeyer, AM
-<img src="images/hes-logo.png">
+<img src="https://github.com/RGPhD/e15/blob/master/images/hes-logo.png">
 
 ## Online Code
-+ JsFiddle URL: <https://jsfiddle.net/user/RobelynGarcia/fiddles/>
++ JsFiddle URL: <https://jsfiddle.net/user/RobelynGarcia>
 + JsFiddle 2 URL: <https://jsfiddle.net/user/DrRobelynGarcia>
 + CodePen Url: <https://codepen.io/DrRobelynGarcia>
-+ Paiza Php Url: <https://paiza.io/users/show/45209>
++ Paiza Url: <https://paiza.io/users/show/45209>
 
 # Practice APP
 + By: *Robelyn Garcia*
